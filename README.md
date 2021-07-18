@@ -15,5 +15,5 @@ const greetings = ( yourName ) => {
 
 
 ## How to reach me? 📫
-[GitHub]('https://github.com/Jhoan-S')
-[LinkedIn]('https://linkedin.com/in/jhoan-sánchez-b32a97198')
+[GitHub](https://github.com/Jhoan-S)
+[LinkedIn](https://linkedin.com/in/jhoan-sánchez-b32a97198)
